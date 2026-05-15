@@ -1,0 +1,118 @@
+*,html {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(latar.jpeg);
+    background-size: cover;
+}
+
+.navbar {
+    background-color: aliceblue;\
+    width: 100%;
+    height: 100px;
+}
+
+.ul-navbar {
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.li-navbar {
+    padding: 20px;
+    margin: 10px;
+    color: black;
+    font-size: 150%;
+}
+
+.li-navbar :hover {
+    background-color: rgb(40, 108, 203) ;
+    transition: .1s ease-in-out;
+    transition-delay: .1s ;
+    border-radius: 8px;
+}
+
+.a-navbar {
+    color: black;
+    text-decoration: none;
+}
+
+.logol {
+   color: rgb(81, 139, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.imgl {
+    width: 30%;
+    height: 30%;
+    height: 250px;
+}
+
+.footerr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.isi-footer {
+   font-size: x-large;
+    color: rgb(0, 0, 0);
+    width: 50%;
+    height: 50%;
+}
+
+.imgl1 {
+    width: 20%;
+    height: 20%;
+    height: 200px;
+}
+
+.logol1 {
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;  
+}
+
+.ttg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.ttg1 {
+    color: white;
+    width: 35%;
+    height: 35%;
+    height: 100px; 
+    font-size: 150%;
+}
+
+.11 {
+   color: rgb(81, 139, 255);
+    width: 35%;
+    height: 35%;
+    height: 100px; 
+    font-size: 200%; 
+}
+
+.logol2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.a-logol {
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
